@@ -24,4 +24,8 @@ so that [I may complete transactions from my account to other's.]
 Acceptance criteria :
 * user must have an active account in a bank and enough balance.
 * user must be able to login 
-* 
+
+
+>GIT:
+
+*
