@@ -1,0 +1,27 @@
+Day 1
+
+>we discussed the need for sdlc after sw cricis era
+>tdd - test driven development
+>then we had a discuss of unit and integration testing and function testing 
+for testing purpose we need some frameworks to do tht tak ex - JUnit is an ex
+>wireframe - snapshot of your application look and layout
+>cross cutting concern - concerns which are not a part of the business part of the app but strill importanat. Foer ex - create a banking site : security, 
+>automated boarding system in airlines
+
+Agile
+It is not any sdlc model
+Jenkins - CICD tool - continuous integration and continuous deployment
+
+
+Day 2
+
+> User Story For bank transfer
+
+As a [customer]
+I need to [login and perform transactions]
+so that [I may complete transactions from my account to other's.]
+
+Acceptance criteria :
+* user must have an active account in a bank and enough balance.
+* user must be able to login 
+* 
